@@ -1,0 +1,15 @@
+{
+  "name": "node-lab-1",
+  "version": "1.0.0",
+  "description": "Node.js laboratory exercises",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "check-even": "node app.js 10",
+    "dice": "node dice.js 3"
+  },
+  "keywords": ["nodejs", "lab"],
+  "author": "Student",
+  "license": "ISC",
+  "type": "commonjs"
+}
